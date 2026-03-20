@@ -29,6 +29,7 @@ The goal is simple:
 - [Categories](#categories)
   - [Literature Review & Paper Discovery](#literature-review--paper-discovery)
   - [Reading, Summarization & Deep Research](#reading-summarization--deep-research)
+  - [Autonomous Research Agents](#autonomous-research-agents)
   - [Academic Writing & Research Workflows](#academic-writing--research-workflows)
   - [Research Skills & Prompt Libraries](#research-skills--prompt-libraries)
   - [MCP Servers & Agent Integrations](#mcp-servers--agent-integrations)
@@ -57,6 +58,7 @@ That includes:
 
 - tools for literature review and paper discovery
 - paper-reading and synthesis workflows
+- autonomous research agents that can plan, code, experiment, and critique
 - academic writing support
 - reusable research skills
 - MCP-enabled tools that connect papers, libraries, and assistants
@@ -150,6 +152,13 @@ Projects that help users read papers, extract useful information, and run deeper
 - [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) — Research skill pack for Claude Code covering literature search, reading, synthesis, and output generation. `Reading` `Skills` `Claude Code` `Active`
 - [emi-dm/Research-MCP](https://github.com/emi-dm/Research-MCP) — Supports multi-step academic workflows such as search, extraction, Q&A, and literature review. `Reading` `Workflow` `MCP` `Experimental`
 
+## Autonomous Research Agents
+
+Projects that go beyond reading support into more autonomous research loops such as ideation, coding, experimentation, report generation, and self-critique.
+
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) — Flagship autonomous research-agent project that uses LLMs to brainstorm ideas, write code, run experiments, draft papers, and review its own outputs. A strong reference point for AI-driven scientific discovery workflows. `Agent` `AI Scientist` `Experiments` `Writing` `Active`
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Not a scientific agent in the narrow sense, but a practical autonomous web-research system for gathering sources and producing detailed reports. Especially useful for automating related-work surveys and broader research background synthesis. `Agent` `Deep Research` `Survey` `Active`
+
 ## Academic Writing & Research Workflows
 
 Workflows and tools that help users turn research inputs into structured outputs such as outlines, reviews, and drafts.
@@ -221,6 +230,14 @@ Use this path if your main goal is to turn reading notes and references into wri
 
 Use this path if you want a more connected workflow spanning discovery, reading, extraction, and writing.
 
+### 5. For autonomous research agents and related-work automation
+
+- `AI-Scientist`
+- `gpt-researcher`
+- `Awesome-AI-Scientists`
+
+Use this path if you want to explore more autonomous research loops, or automate high-effort background research and related-work surveying.
+
 ---
 
 ## Tag guide
@@ -235,6 +252,7 @@ Use this path if you want a more connected workflow spanning discovery, reading,
 - `Workflow` — Multi-step academic workflow
 - `Integration` — Connects scholarly systems or libraries to assistants
 - `Meta` — Ecosystem map or curated list
+- `Agent` — Autonomous or semi-autonomous research agent
 
 ### Domain tags
 
@@ -245,6 +263,9 @@ Use this path if you want a more connected workflow spanning discovery, reading,
 - `Claude Code`
 - `Research`
 - `AI Scientist`
+- `Deep Research`
+- `Survey`
+- `Experiments`
 
 ### Status tags
 
