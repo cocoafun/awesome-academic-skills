@@ -1,5 +1,7 @@
 # Awesome Academic Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-21-blue.svg)](#categories) [![Categories](https://img.shields.io/badge/categories-7-0a7b83.svg)](#categories) [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 > A curated list of open-source academic AI tools, research agents, MCP servers, and reusable skills for literature review, paper reading, synthesis, and academic writing.
 
 This repository is for researchers, students, and academic builders who want a practical map of the emerging academic AI workflow stack.
