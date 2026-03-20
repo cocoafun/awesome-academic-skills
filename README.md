@@ -48,7 +48,7 @@ Start from the workflow stage you care about most:
 
 | Category | Count | What it covers |
 | --- | ---: | --- |
-| [Literature Review & Paper Discovery](categories/literature-review-and-paper-discovery.md) | 3 | paper search, retrieval, and discovery workflows |
+| [Literature Review & Paper Discovery](categories/literature-review-and-paper-discovery.md) | 2 | paper search, retrieval, and discovery workflows |
 | [Reading, Summarization & Deep Research](categories/reading-summarization-and-deep-research.md) | 8 | reading assistants, extraction, and multi-step review |
 | [Autonomous Research Agents](categories/autonomous-research-agents.md) | 6 | research agents that ideate, plan, run, and report |
 | [Academic Writing & Research Workflows](categories/academic-writing-and-research-workflows.md) | 4 | outlines, drafts, and structured writing workflows |
