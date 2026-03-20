@@ -1,4 +1,4 @@
-# Awesome Academic Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-13-blue.svg)](#categories) [![Categories](https://img.shields.io/badge/categories-7-0a7b83.svg)](#categories) [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+# Awesome Academic Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-21-blue.svg)](#categories) [![Categories](https://img.shields.io/badge/categories-7-0a7b83.svg)](#categories) [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
 > A curated list of open-source academic AI tools, research agents, MCP servers, and reusable skills for literature review, paper reading, synthesis, and academic writing.
 
@@ -14,7 +14,7 @@ It focuses on tools that help people actually do research work:
 
 ## At a Glance
 
-- 13 curated projects across 7 categories
+- 21 curated projects across 7 categories
 - focused on open-source academic workflows, not generic AI wrappers
 - organized for practical use, not just ecosystem watching
 
@@ -49,9 +49,9 @@ Start from the workflow stage you care about most:
 | Category | Count | What it covers |
 | --- | ---: | --- |
 | [Literature Review & Paper Discovery](categories/literature-review-and-paper-discovery.md) | 3 | paper search, retrieval, and discovery workflows |
-| [Reading, Summarization & Deep Research](categories/reading-summarization-and-deep-research.md) | 3 | reading assistants, extraction, and multi-step review |
-| [Autonomous Research Agents](categories/autonomous-research-agents.md) | 2 | research agents that ideate, plan, run, and report |
-| [Academic Writing & Research Workflows](categories/academic-writing-and-research-workflows.md) | 3 | outlines, drafts, and structured writing workflows |
+| [Reading, Summarization & Deep Research](categories/reading-summarization-and-deep-research.md) | 8 | reading assistants, extraction, and multi-step review |
+| [Autonomous Research Agents](categories/autonomous-research-agents.md) | 6 | research agents that ideate, plan, run, and report |
+| [Academic Writing & Research Workflows](categories/academic-writing-and-research-workflows.md) | 4 | outlines, drafts, and structured writing workflows |
 | [Research Skills & Prompt Libraries](categories/research-skills-and-prompt-libraries.md) | 4 | reusable skills for recurring research tasks |
 | [MCP Servers & Agent Integrations](categories/mcp-servers-and-agent-integrations.md) | 5 | connectors for paper search, Zotero, and scholarly tools |
 | [Awesome Lists & Ecosystem Maps](categories/awesome-lists-and-ecosystem-maps.md) | 2 | broader maps of the academic AI ecosystem |
@@ -68,27 +68,27 @@ Use this path if you want to go from topic to paper set quickly.
 
 ### Reading and Synthesis Stack
 
-- [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)
-- [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills)
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+- [Future-House/paper-qa](https://github.com/Future-House/paper-qa)
 - [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
 
-Use this path if you already have papers and want structured reading, notes, and synthesis.
+Use this path if you already have papers and want strong parsing, evidence-grounded answers, and library-connected synthesis.
 
 ### Writing-Oriented Workflow
 
 - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer)
+- [Future-House/paper-qa](https://github.com/Future-House/paper-qa)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
 
-Use this path if your main goal is moving from references and notes to drafts.
+Use this path if your main goal is moving from references and evidence-backed notes to drafts.
 
 ### Advanced Agent Workflow
 
-- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-- [emi-dm/Research-MCP](https://github.com/emi-dm/Research-MCP)
+- [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher)
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)
+- [stanford-oval/storm](https://github.com/stanford-oval/storm)
 
-Use this path if you want more autonomous background research or research-agent experimentation.
+Use this path if you want more autonomous literature review, ideation, and end-to-end research-agent experimentation.
 
 ## Selection Principles
 
