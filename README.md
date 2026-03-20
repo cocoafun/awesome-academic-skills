@@ -1,294 +1,121 @@
-# Awesome Academic Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Awesome Academic Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Projects](https://img.shields.io/badge/projects-13-blue.svg)](#categories) [![Categories](https://img.shields.io/badge/categories-7-0a7b83.svg)](#categories) [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
-> A curated list of open-source academic AI tools, agent-powered workflows, MCP servers, and research skills for literature review, paper reading, and academic writing.
+> A curated list of open-source academic AI tools, research agents, MCP servers, and reusable skills for literature review, paper reading, synthesis, and academic writing.
 
-This repository is built for **researchers, students, and academic builders** who want to make practical use of the new wave of **agent-driven research tools**.
+This repository is for researchers, students, and academic builders who want a practical map of the emerging academic AI workflow stack.
 
-It is **not** just a list of traditional academic software.
+It focuses on tools that help people actually do research work:
 
-Instead, it highlights open-source tools and workflows that help users:
+- discover and collect papers
+- read, summarize, and synthesize sources
+- connect scholarly libraries to assistants
+- reuse research skills and writing workflows
+- explore agent-style academic automation
 
-- discover and organize papers more efficiently
-- connect research libraries to AI assistants
-- run literature review and synthesis workflows
-- use reusable research skills for reading and writing
-- explore MCP-enabled tools in real academic work
+## At a Glance
 
-The goal is simple:
+- 13 curated projects across 7 categories
+- focused on open-source academic workflows, not generic AI wrappers
+- organized for practical use, not just ecosystem watching
 
-**help ordinary research users actually use the new generation of agent-related academic tools.**
+## Why This List Exists
 
----
+There are already many lists for academic software, PDF readers, and general AI tools. Most of them either:
 
-## Contents
+- stay in the traditional research-tool world
+- mix academic use cases into broad AI directories
 
-- [Why this list](#why-this-list)
-- [Who this is for](#who-this-is-for)
-- [How to use this list](#how-to-use-this-list)
-- [Inclusion criteria](#inclusion-criteria)
-- [Categories](#categories)
-  - [Literature Review & Paper Discovery](#literature-review--paper-discovery)
-  - [Reading, Summarization & Deep Research](#reading-summarization--deep-research)
-  - [Autonomous Research Agents](#autonomous-research-agents)
-  - [Academic Writing & Research Workflows](#academic-writing--research-workflows)
-  - [Research Skills & Prompt Libraries](#research-skills--prompt-libraries)
-  - [MCP Servers & Agent Integrations](#mcp-servers--agent-integrations)
-  - [Awesome Lists & Ecosystem Maps](#awesome-lists--ecosystem-maps)
-- [Recommended starter paths](#recommended-starter-paths)
-- [Tag guide](#tag-guide)
-- [Contributing](#contributing)
-- [License](#license)
+This project sits in the middle. It tracks the tools, skills, and integrations that make agent-assisted academic work usable in real workflows.
 
----
+## Who This Is For
 
-## Why this list
+- students doing literature reviews, theses, and paper reading
+- researchers exploring AI-assisted synthesis and drafting
+- lab builders creating internal research copilots or workflows
+- power users connecting MCP servers, paper libraries, and reusable skills
 
-There are already many academic tools, reference managers, PDF readers, and AI products.
+## How to Use This List
 
-But most lists fall into one of two categories:
+Start from the workflow stage you care about most:
 
-- traditional research software lists
-- generic AI tools lists
-
-This repository focuses on a newer middle ground:
-
-**open-source academic AI tools and workflows that make agent-style research help usable in real academic work**
-
-That includes:
-
-- tools for literature review and paper discovery
-- paper-reading and synthesis workflows
-- autonomous research agents that can plan, code, experiment, and critique
-- academic writing support
-- reusable research skills
-- MCP-enabled tools that connect papers, libraries, and assistants
-
-In short, this list is about the **practical research workflow**, not just the underlying infrastructure.
-
----
-
-## Who this is for
-
-This list is especially useful for:
-
-- **students** doing literature review, reading papers, and writing theses
-- **researchers** exploring AI-assisted reading, synthesis, and drafting
-- **academic builders** creating research copilots or workflow tools
-- **power users** who want to connect skills, MCP servers, and scholarly tools together
-
-You do **not** need to be an agent engineer to benefit from the projects collected here.
-
----
-
-## How to use this list
-
-A practical academic AI workflow often looks like this:
-
-1. **Find papers**  
-   Discover relevant literature from academic sources or search workflows.
-
-2. **Read and understand papers faster**  
-   Use paper-reading assistants, deep-research tools, or reusable research skills.
-
-3. **Organize notes and references**  
-   Connect paper libraries or reference managers to your AI workflow.
-
-4. **Synthesize and review**  
-   Run literature review or multi-step research workflows.
-
-5. **Write and refine**  
-   Use structured writing workflows and research-oriented skill sets.
-
-6. **Extend with MCP and integrations**  
-   Add agent-enabled connectors when they improve real research work.
-
-You can browse this repository in the same order.
-
----
-
-## Inclusion criteria
-
-A project is a good fit for this list if it is:
-
-- **open-source**
-- **useful for real academic workflows**
-- relevant to **literature review, paper reading, synthesis, or writing**
-- built with or enhanced by **agents, skills, MCP, or reusable research workflows**
-
-### We prioritize
-
-- academic AI tools with real research use cases
-- literature review and paper-reading workflows
-- reusable research skills and prompt libraries
-- MCP servers for scholarly search, paper libraries, and academic workflows
-- open-source writing and synthesis workflows
-- ecosystem maps for academic agent tools
-
-### We usually avoid
-
-- closed SaaS-only products
-- generic AI wrappers with no academic focus
-- traditional academic tools with no AI or workflow angle
-- low-value demo repos
-- abandoned projects with little reuse value
-
----
+1. Find papers with discovery tools and paper-search MCP servers.
+2. Read faster with paper-oriented skills and deep-research workflows.
+3. Connect your library with Zotero or other agent integrations.
+4. Move from notes to outlines, reviews, and drafts with writing workflows.
+5. Explore more autonomous research loops when you need end-to-end automation.
 
 ## Categories
 
-## Literature Review & Paper Discovery
+| Category | Count | What it covers |
+| --- | ---: | --- |
+| [Literature Review & Paper Discovery](categories/literature-review-and-paper-discovery.md) | 3 | paper search, retrieval, and discovery workflows |
+| [Reading, Summarization & Deep Research](categories/reading-summarization-and-deep-research.md) | 3 | reading assistants, extraction, and multi-step review |
+| [Autonomous Research Agents](categories/autonomous-research-agents.md) | 2 | research agents that ideate, plan, run, and report |
+| [Academic Writing & Research Workflows](categories/academic-writing-and-research-workflows.md) | 3 | outlines, drafts, and structured writing workflows |
+| [Research Skills & Prompt Libraries](categories/research-skills-and-prompt-libraries.md) | 4 | reusable skills for recurring research tasks |
+| [MCP Servers & Agent Integrations](categories/mcp-servers-and-agent-integrations.md) | 5 | connectors for paper search, Zotero, and scholarly tools |
+| [Awesome Lists & Ecosystem Maps](categories/awesome-lists-and-ecosystem-maps.md) | 2 | broader maps of the academic AI ecosystem |
 
-Tools and workflows that help users search, collect, and explore academic papers more efficiently.
+## Recommended Starter Paths
 
-- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) — MCP server for searching and downloading academic papers across multiple sources, useful for AI-assisted literature discovery. `Discovery` `MCP` `Active`
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) — MCP server for searching and retrieving arXiv papers in academic assistant workflows. `Discovery` `arXiv` `MCP` `Active`
-- [emi-dm/Research-MCP](https://github.com/emi-dm/Research-MCP) — Research-oriented MCP workflow for academic search, extraction, and review tasks. `Discovery` `Workflow` `MCP` `Experimental`
+### Literature Review Starter
 
-## Reading, Summarization & Deep Research
+- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp)
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 
-Projects that help users read papers, extract useful information, and run deeper AI-assisted research workflows.
+Use this path if you want to go from topic to paper set quickly.
 
-- [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) — Large collection of research-oriented skills covering literature survey, ideation, analysis, and paper-related workflows. `Reading` `Skills` `Active`
-- [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) — Research skill pack for Claude Code covering literature search, reading, synthesis, and output generation. `Reading` `Skills` `Claude Code` `Active`
-- [emi-dm/Research-MCP](https://github.com/emi-dm/Research-MCP) — Supports multi-step academic workflows such as search, extraction, Q&A, and literature review. `Reading` `Workflow` `MCP` `Experimental`
+### Reading and Synthesis Stack
 
-## Autonomous Research Agents
+- [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)
+- [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills)
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
 
-Projects that go beyond reading support into more autonomous research loops such as ideation, coding, experimentation, report generation, and self-critique.
+Use this path if you already have papers and want structured reading, notes, and synthesis.
 
-- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) — Flagship autonomous research-agent project that uses LLMs to brainstorm ideas, write code, run experiments, draft papers, and review its own outputs. A strong reference point for AI-driven scientific discovery workflows. `Agent` `AI Scientist` `Experiments` `Writing` `Active`
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Not a scientific agent in the narrow sense, but a practical autonomous web-research system for gathering sources and producing detailed reports. Especially useful for automating related-work surveys and broader research background synthesis. `Agent` `Deep Research` `Survey` `Active`
+### Writing-Oriented Workflow
 
-## Academic Writing & Research Workflows
+- [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer)
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)
 
-Workflows and tools that help users turn research inputs into structured outputs such as outlines, reviews, and drafts.
+Use this path if your main goal is moving from references and notes to drafts.
 
-- [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) — Scientific writing workflow for turning literature and research context into structured academic writing outputs. `Writing` `Workflow` `Active`
-- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) — Reusable scientific skills for research and writing tasks, useful for building writing-oriented academic workflows. `Writing` `Skills` `Claude` `Active`
-- [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) — Also useful for turning reading and analysis tasks into repeatable research-writing workflows. `Writing` `Skills` `Active`
+### Advanced Agent Workflow
 
-## Research Skills & Prompt Libraries
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+- [emi-dm/Research-MCP](https://github.com/emi-dm/Research-MCP)
 
-Reusable skill repositories that help users and assistants perform recurring academic tasks more systematically.
+Use this path if you want more autonomous background research or research-agent experimentation.
 
-- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) — Broad collection of ready-to-use scientific and research skills. `Skills` `Claude` `Active`
-- [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) — Comprehensive research skill library across the academic workflow. `Skills` `Research` `Active`
-- [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) — Practical academic skill pack for research-oriented agent use. `Skills` `Claude Code` `Active`
-- [smartbiblia-solutions/agent-skills](https://github.com/smartbiblia-solutions/agent-skills) — Skill-focused repository connecting scholarly workflows, libraries, and research tasks. `Skills` `Integration` `Active`
+## Selection Principles
 
-## MCP Servers & Agent Integrations
+Projects included here should be:
 
-Projects that connect academic sources, paper libraries, and workflows to AI assistants through MCP or similar interfaces.
+- open-source
+- relevant to real academic workflows
+- useful for discovery, reading, synthesis, writing, or scholarly integration
+- meaningfully enhanced by agents, MCP, reusable skills, or workflow automation
 
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) — MCP server that connects Zotero libraries to AI assistants for summaries, citation analysis, annotations, and paper discussion. `MCP` `Zotero` `Active`
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) — Agent-friendly arXiv search and retrieval through MCP. `MCP` `arXiv` `Active`
-- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) — Multi-source paper search MCP for academic workflows. `MCP` `Search` `Active`
-- [emi-dm/Research-MCP](https://github.com/emi-dm/Research-MCP) — MCP-first research workflow stack for academic use cases. `MCP` `Workflow` `Experimental`
-- [smartbiblia-solutions/agent-skills](https://github.com/smartbiblia-solutions/agent-skills) — Includes agent-friendly integrations and scholarly workflow components. `MCP` `Integration` `Active`
+Projects are usually excluded when they are:
 
-## Awesome Lists & Ecosystem Maps
+- closed SaaS-only products
+- generic AI wrappers with no academic focus
+- traditional academic tools with no AI workflow angle
+- low-signal demos or abandoned repos
 
-Meta resources that help users explore the broader landscape of academic AI, scientific skills, and research-agent projects.
+## Security Note
 
-- [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) — Curated list of scientific and academic skill resources. `Meta` `Awesome List` `Active`
-- [tsinghua-fib-lab/Awesome-AI-Scientists](https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists) — Broader ecosystem map of AI scientist systems and research-agent projects. `Meta` `AI Scientist` `Active`
+This is a curated list, not a security audit.
 
----
-
-## Recommended starter paths
-
-### 1. For literature review beginners
-
-- `paper-search-mcp`
-- `arxiv-mcp-server`
-- `claude-scientific-skills`
-
-Use this path if you want to search papers faster and start using AI-assisted reading and review workflows.
-
-### 2. For paper reading and synthesis
-
-- `AI-research-SKILLs`
-- `agent-research-skills`
-- `zotero-mcp`
-
-Use this path if you already have papers or a Zotero library and want to turn them into structured reading and synthesis workflows.
-
-### 3. For academic writing support
-
-- `claude-scientific-writer`
-- `claude-scientific-skills`
-- `zotero-mcp`
-
-Use this path if your main goal is to turn reading notes and references into writing-ready outputs.
-
-### 4. For advanced academic AI workflows
-
-- `AI-research-SKILLs`
-- `Research-MCP`
-- `paper-search-mcp`
-- `zotero-mcp`
-
-Use this path if you want a more connected workflow spanning discovery, reading, extraction, and writing.
-
-### 5. For autonomous research agents and related-work automation
-
-- `AI-Scientist`
-- `gpt-researcher`
-- `Awesome-AI-Scientists`
-
-Use this path if you want to explore more autonomous research loops, or automate high-effort background research and related-work surveying.
-
----
-
-## Tag guide
-
-### Workflow tags
-
-- `Discovery` — Literature search and paper discovery
-- `Reading` — Reading, summarization, extraction, or deep research
-- `Writing` — Writing, drafting, or manuscript support
-- `Skills` — Reusable research skills or prompt systems
-- `MCP` — Model Context Protocol server or connector
-- `Workflow` — Multi-step academic workflow
-- `Integration` — Connects scholarly systems or libraries to assistants
-- `Meta` — Ecosystem map or curated list
-- `Agent` — Autonomous or semi-autonomous research agent
-
-### Domain tags
-
-- `Zotero`
-- `arXiv`
-- `Search`
-- `Claude`
-- `Claude Code`
-- `Research`
-- `AI Scientist`
-- `Deep Research`
-- `Survey`
-- `Experiments`
-
-### Status tags
-
-- `Active`
-- `Experimental`
-- `Legacy`
-
----
+Research skills, MCP servers, and agent workflows may have broad file, browser, API, or library access. Review source code and permissions before using them in real academic or institutional environments.
 
 ## Contributing
 
-Contributions are welcome.
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for scope, entry format, and submission guidelines.
 
-Please add projects that help researchers **actually use academic AI in practice**, especially through:
+## License
 
-- literature review workflows
-- paper reading and summarization
-- academic writing support
-- reusable skills
-- MCP servers and scholarly integrations
-- practical research automation
-
-### Preferred entry format
-
-```md
-- [owner/repo](https://github.com/owner/repo) — Short factual description. `Tag1` `Tag2` `Tag3`
+[MIT](LICENSE)
